@@ -1,0 +1,29 @@
+
+
+
+
+
+
+.img1{
+    width: 700px;
+    height: 400px;
+    margin-top: 90px;
+}
+
+
+
+.img2{
+    width: 700px;
+    height: 400px;
+    margin-top: 50px;
+    margin-right: 800px;
+    margin-top: -500px;
+}
+
+
+@media screen and (max-width:500px){
+    header,body,main{
+        display: block;
+        width: 100%;
+    }
+}
